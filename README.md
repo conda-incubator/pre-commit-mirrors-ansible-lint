@@ -4,7 +4,7 @@ Ansible-lint mirror
 Mirror of ansible-lint for pre-commit with conda as a language.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
-For ruff: see https://github.com/ansible/ansible-lint
+For ansible-lint: see https://github.com/ansible/ansible-lint
 
 ### Using ruff with pre-commit and conda:
 
