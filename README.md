@@ -6,7 +6,7 @@ Mirror of ansible-lint for pre-commit with conda as a language.
 For pre-commit: see https://github.com/pre-commit/pre-commit
 For ansible-lint: see https://github.com/ansible/ansible-lint
 
-### Using ruff with pre-commit and conda:
+### Using ansible-lint with pre-commit and conda:
 
 Add this to your `.pre-commit-config.yaml`
 
