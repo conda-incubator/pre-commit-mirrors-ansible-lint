@@ -2,4 +2,4 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - ansible-lint=6.20.0
+  - ansible-lint=6.20.1
