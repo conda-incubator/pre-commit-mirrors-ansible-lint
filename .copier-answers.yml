@@ -1,6 +1,7 @@
 # This file is managed by Copier; DO NOT EDIT OR REMOVE.
-_commit: v0.1.0
+_commit: v0.1.4
 _src_path: git@github.com:quantco/copier-template-pre-commit-mirrors
+description: This hook runs ansible-lint.
 entry: ansible-lint -v --force-color
 tool: ansible-lint
 url: https://github.com/ansible/ansible-lint

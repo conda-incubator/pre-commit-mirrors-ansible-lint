@@ -1,6 +1,6 @@
 - id: ansible-lint-conda
   name: ansible-lint-conda
-  description: This hook runs ansible-lint.
+  description: 'This hook runs ansible-lint.'
   entry: ansible-lint -v --force-color
   language: conda
   # do not pass files to ansible-lint, see:
