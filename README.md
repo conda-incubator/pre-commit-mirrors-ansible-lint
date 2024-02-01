@@ -1,6 +1,6 @@
-# ansible-lint mirror
+# ansible-lint pre-commit hook
 
-Mirror of ansible-lint for pre-commit with conda as a language.
+pre-commit hook of ansible-lint with conda as a `language` / package manager.
 
 For pre-commit: see [here](https://github.com/pre-commit/pre-commit)
 
