@@ -2,4 +2,4 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - ansible-lint=25.1.0
+  - ansible-lint=25.1.1
